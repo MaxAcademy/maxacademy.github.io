@@ -1,6 +1,6 @@
 ---
-layout: home
-title: ""
+layout: base
+title: "Test"
 ---
 
 # Max Academy
