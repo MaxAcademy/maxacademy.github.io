@@ -1,8 +1,6 @@
 ---
-title: "Max"
+title: "Max Academy"
 ---
-
-# Max Academy
 
 Accelerated courses and workshops in Generative AI for experienced developers. The world is changing, stay ahead of the curve.
 
