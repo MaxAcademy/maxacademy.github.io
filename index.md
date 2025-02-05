@@ -59,3 +59,15 @@ If you're deciding if this course is right for you, consider giving the prework 
 ## Cost
 
 The cost for the 6-week course is $3000.
+
+{% raw %}
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1Qp2AiFJQSRwouyP6zcb7s6s"
+  publishable-key="pk_live_51QP7GAFJQSRwouyPYGjmbqk35SkEzUVAyexLm7i4TcyEIfVEGooXFYdluoOOcq2jKfPIxklOA0NZBAOy5ibUQNlc00Hx03eE0Q"
+>
+</stripe-buy-button>
+{% endraw %}
